@@ -7,7 +7,7 @@
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
-|<td colspan=4>Time Complexity|
+|Time Complexity||
 | Algorithm | Best | Average  | Worst |
 | ------------- | ------------- | ------------- | ------------- |
 | Pigeonhole Sort  | -  | O(n+N)  | O(n+N)  |
