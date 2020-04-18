@@ -8,7 +8,9 @@
 | git diff     | git diff       | git diff      |
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Algorithm | Best | Average  | Worst |
+| ------------- | ------------- | ------------- | ------------- |
+| Pigeonhole Sort  | -  | O(n+N)  | O(n+N)  |
+| Merge Sort  | n log n  | n log n  | n log n  |
+| Heap Sort  | n log n  | n log n  | n log n  |
+| Quick Sort  | n log n  | n log n  | $n^2$  |
