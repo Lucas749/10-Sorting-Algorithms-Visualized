@@ -9,7 +9,7 @@
 
 |Time Complexity||
 
-
+|           | Time Complexity         ||
 | Algorithm | Best | Average  | Worst |
 | ------------- | ------------- | ------------- | ------------- |
 | Pigeonhole Sort  | -  | O(n+N)  | O(n+N)  |
