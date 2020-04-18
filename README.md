@@ -1,15 +1,10 @@
 # 10-Sorting-Algorithms-Visualized
 
+The script visualizes 10 common sorting algorithm. The implemented algorithms and their time complexity are reported in the table below.
 
-| Algorithm | Time Complexity |
-|           | Best | Average | Worst |
-| --- | --- | --- |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+To visualize the algorithms, simply run the script and specify the array length and algorithm.
 
-|Time Complexity||
 
-|    Test       | Time Complexity        ||
 | Algorithm | Best | Average  | Worst |
 | ------------- | ------------- | ------------- | ------------- |
 | Pigeonhole Sort  | -  | O(n+N)  | O(n+N)  |
