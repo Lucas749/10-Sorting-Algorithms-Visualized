@@ -1,4 +1,4 @@
-# 10-Sorting-Algorithms-Visualized
+# 10 Sorting Algorithms Visualized
 
 The script visualizes 10 common sorting algorithm. The implemented algorithms and their time complexity are reported in the table below.
 
