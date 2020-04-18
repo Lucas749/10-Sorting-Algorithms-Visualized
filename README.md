@@ -1,8 +1,6 @@
 # 10 Sorting Algorithms Visualized
 
-The script visualizes 10 common sorting algorithm. The implemented algorithms and their time complexity are reported in the table below.
-
-To visualize the algorithms, simply run the script and specify the array length and algorithm.
+The script visualizes 10 common sorting algorithm. The implemented algorithms and their time complexity are reported in the table below. To visualize the algorithms, simply run the script and specify the array length and algorithm.
 
 
 | Algorithm | Best | Average  | Worst |
