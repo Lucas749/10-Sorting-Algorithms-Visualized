@@ -13,4 +13,4 @@
 | Pigeonhole Sort  | -  | O(n+N)  | O(n+N)  |
 | Merge Sort  | n log n  | n log n  | n log n  |
 | Heap Sort  | n log n  | n log n  | n log n  |
-| Quick Sort  | n log n  | n log n  | $n^2$  |
+| Quick Sort  | n log n  | n log n  | n2  |
